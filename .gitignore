@@ -1,0 +1,34 @@
+# Directories
+TEMP/
+image/
+
+# Binary files
+*.exe
+*.dll
+*.dylib
+*.so
+
+# Backup files
+*~
+*.bak
+*.swp
+*.swo
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# IDE/Editor specific
+*.idea/
+.vscode/
+*.project
+*.classpath
+
+# Logs and databases
+*.log
+*.sql
+*.sqlite
+
+# Dependency directories (for some languages/projects)
+node_modules/
+vendor/

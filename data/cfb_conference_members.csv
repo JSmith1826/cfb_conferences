@@ -1,0 +1,359 @@
+Institution,Nickname,Location,Founded,Joined,Left,Enrollment,Conference
+UAB,Blazers,"Birmingham, Alabama",1969,2023,,21923,American Athletic Conference
+East Carolina,Pirates,"Greenville, North Carolina",1907,2014,,28028,American Athletic Conference
+Florida Atlantic,Owls,"Boca Raton, Florida",1961,2023,,30171,American Athletic Conference
+Memphis,Tigers,"Memphis, Tennessee",1912,2013,,21458,American Athletic Conference
+Charlotte,49ers,"Charlotte, North Carolina",1946,2023,,30146,American Athletic Conference
+North Texas,Mean Green,"Denton, Texas",1890,2023,,42375,American Athletic Conference
+Rice,Owls,"Houston, Texas",1912,2023,,7124,American Athletic Conference
+South Florida,Bulls,"Tampa, Florida",1956,2013,,50830,American Athletic Conference
+Southern Methodist,Mustangs,"University Park, Texas",1911,2013,,11649,American Athletic Conference
+Temple,Owls,"Philadelphia, Pennsylvania",1884,2013,,37365,American Athletic Conference
+UTSA,Roadrunners,"San Antonio, Texas",1969,2023,,34734,American Athletic Conference
+Tulane,Green Wave,"New Orleans, Louisiana",1834,2014,,14472,American Athletic Conference
+Tulsa,Golden Hurricane,"Tulsa, Oklahoma",1894,2014,,3343,American Athletic Conference
+Wichita State,Shockers,"Wichita, Kansas",1895,2017,,15778,American Athletic Conference
+Central Florida,Knights,"Orlando, Florida",1963,2013,2023.0,0,American Athletic Conference
+Cincinnati,Bearcats,"Cincinnati, Ohio",1819,2013,2023.0,0,American Athletic Conference
+Houston,Cougars,"Houston, Texas",1927,2013,2023.0,0,American Athletic Conference
+Rutgers,Scarlet Knights,"New Brunswick, New Jersey",1766,2013,2014.0,0,American Athletic Conference
+Louisville,Cardinals,"Louisville, Kentucky",1798,2013,2014.0,0,American Athletic Conference
+Connecticut,Huskies,"Storrs, Connecticut",1881,2013,2020.0,0,American Athletic Conference
+Connecticut,Huskies,"Storrs, Connecticut",1881,2013,2020.0,0,American Athletic Conference
+Clemson,Tigers,"Clemson, South Carolina",1889,1953,,25822,ACC
+Duke,Blue Devils,"Durham, North Carolina",1838,1953,,16780,ACC
+North Carolina,Tar Heels,"Chapel Hill, North Carolina",1789,1953,,30101,ACC
+NC State,Wolfpack,"Raleigh, North Carolina",1887,1953,,36304,ACC
+Wake Forest,Demon Deacons,"Winston-Salem, North Carolina",1834,1953,,8789,ACC
+Virginia,Cavaliers,"Charlottesville, Virginia",1819,1953,,25018,ACC
+Georgia Tech,Yellow Jackets,"Atlanta, Georgia",1885,1979,,36489,ACC
+Florida State,Seminoles,"Tallahassee, Florida",1851,1991,,45493,ACC
+Miami (FL),Hurricanes,"Coral Gables, Florida",1925,2004,,17811,ACC
+Virginia Tech,Hokies,"Blacksburg, Virginia",1872,2004,,36383,ACC
+Boston College,Eagles,"Chestnut Hill, Massachusetts",1863,2005,,14890,ACC
+Notre Dame,Fighting Irish,"Notre Dame, Indiana",1842,2013,,12681,ACC
+Pittsburgh,Panthers,"Pittsburgh, Pennsylvania",1787,2013,,28391,ACC
+Syracuse,Orange,"Syracuse, New York",1870,2013,,21322,ACC
+Louisville,Cardinals,"Louisville, Kentucky",1798,2014,,21430,ACC
+SMU,Mustangs,"Dallas, Texas[a]",1911,2024,,12373,ACC
+California,Golden Bears,"Berkeley, California",1868,2024,,45307,ACC
+Stanford,Cardinal,"Stanford, California",1891,2024,,17326,ACC
+South Carolina,Gamecocks,"Columbia, South Carolina",1801,1953,1971.0,0,ACC
+Maryland,Terrapins,"College Park, Maryland",1856,1953,2014.0,0,ACC
+Indiana,Hoosiers,"Bloomington, Indiana",1820,1899,,42552,Big Ten Conference
+Maryland,Terrapins,"College Park, Maryland",1856,2014,,40709,Big Ten Conference
+Michigan State,Spartans,"East Lansing, Michigan",1855,1950,,49695,Big Ten Conference
+Ohio State,Buckeyes,"Columbus, Ohio",1870,1912,,61369,Big Ten Conference
+Penn State,Nittany Lions,"University Park, Pennsylvania",1855,1990,,45901,Big Ten Conference
+Rutgers,Scarlet Knights,"New Brunswick–Piscataway, New Jersey",1766,2014,,50411,Big Ten Conference
+Illinois,Fighting Illini,"Urbana-Champaign, Illinois[e]",1867,1896,,52331,Big Ten Conference
+Iowa,Hawkeyes,"Iowa City, Iowa",1847,1899,,30448,Big Ten Conference
+Minnesota,Golden Gophers,"Minneapolis-St. Paul, Minnesota",1851,1896,,52017,Big Ten Conference
+Nebraska,Cornhuskers,"Lincoln, Nebraska",1869,2011,,25057,Big Ten Conference
+Northwestern,Wildcats,"Evanston, Illinois",1851,1896,,22316,Big Ten Conference
+Purdue,Boilermakers,"West Lafayette, Indiana",1869,1896,,45869,Big Ten Conference
+Wisconsin,Badgers,"Madison, Wisconsin",1848,1896,,47935,Big Ten Conference
+Michigan,Wolverines,"Ann Arbor, Michigan",1817,1896,1907.0,45000,Big Ten Conference
+Michigan,Wolverines,"Ann Arbor, Michigan",1817,1917,,45000,Big Ten Conference
+UCLA,Bruins,"Los Angeles, California",1919,2024,,45900,Big Ten Conference
+Oregon,Ducks,"Eugene, Oregon",1876,2024,,23202,Big Ten Conference
+Southern California,Trojans,"Los Angeles, California",1880,2024,,49500,Big Ten Conference
+Washington,Huskies,"Seattle, Washington",1861,2024,,49522,Big Ten Conference
+Baylor,Bears,"Waco, Texas",1845,1996.0,,"20,626",Big 12
+BYU,Cougars,"Provo, Utah",1875,2023.0,,"34,390",Big 12
+Central Florida,Knights,"Orlando, Florida[a]",1963,2023.0,,"71,948",Big 12
+Cincinnati,Bearcats,"Cincinnati, Ohio",1819,2023.0,,"47,914",Big 12
+Houston,Cougars,"Houston, Texas",1927,2023.0,,"47,090",Big 12
+Iowa State,Cyclones,"Ames, Iowa",1858,1996.0,,"30,708",Big 12
+Kansas,Jayhawks,"Lawrence, Kansas",1865,1996.0,,"27,685",Big 12
+Kansas State,Wildcats,"Manhattan, Kansas",1863,1996.0,,"19,722",Big 12
+Oklahoma,Sooners,"Norman, Oklahoma",1890,1996.0,,"28,052",Big 12
+Oklahoma State,Cowboys / Cowgirls,"Stillwater, Oklahoma",1890,1996.0,,"24,660",Big 12
+Texas at Austin,Longhorns,"Austin, Texas",1883,1996.0,,"51,892",Big 12
+Texas Christian,Horned Frogs,"Fort Worth, Texas",1873,2012.0,,"11,938",Big 12
+Texas Tech,Red Raiders,"Lubbock, Texas",1923,1996.0,,"40,666",Big 12
+West Virginia,Mountaineers,"Morgantown, West Virginia",1867,2012.0,,"25,474",Big 12
+Arizona,Wildcats,"Tucson, Arizona",1885,,,51134,Big 12
+Arizona State,Sun Devils,"Tempe, Arizona[a]",1885,,,"57,588",Big 12
+Colorado Boulder,Buffaloes,"Boulder, Colorado",1876,,,36170,Big 12
+Utah,Utes,"Salt Lake City, Utah",1850,,,34900,Big 12
+Colorado Boulder,Buffaloes,"Boulder, Colorado",1876,1996.0,2011.0,,Big 12
+Missouri,Tigers,"Columbia, Missouri",1839,1996.0,2012.0,,Big 12
+Nebraska–Lincoln,Cornhuskers,"Lincoln, Nebraska",1869,1996.0,2011.0,,Big 12
+Texas A&M,Aggies,"College Station, Texas",1876,1996.0,2012.0,,Big 12
+Colorado,Buffaloes,"Boulder, Colorado",1876,1947,1996,30128,Big 8 Conference
+Iowa State,Cyclones,"Ames, Iowa",1858,1908,1996,28682,Big 8 Conference
+Kansas,Jayhawks,"Lawrence, Kansas",1865,1907,1996,30004,Big 8 Conference
+Kansas State,Wildcats,"Manhattan, Kansas",1863,1913,1996,23588,Big 8 Conference
+Missouri,Tigers,"Columbia, Missouri",1839,1907,1996,33318,Big 8 Conference
+Nebraska,Cornhuskers,"Lincoln, Nebraska",1869,1907,1996,24100,Big 8 Conference
+Oklahoma,Sooners,"Norman, Oklahoma",1890,1919,1996,29721,Big 8 Conference
+Oklahoma State,Cowboys,"Stillwater, Oklahoma",1890,1958,1996,23307,Big 8 Conference
+Drake,Bulldogs,"Des Moines, Iowa",1881,1908,1928,3164,Big 8 Conference
+Grinnell,Pioneers,"Grinnell, Iowa",1846,1918,1928,1688,Big 8 Conference
+Iowa,Hawkeyes,"Iowa City, Iowa",1847,1907,1911,30825,Big 8 Conference
+Washington  in St. Louis,Bears,"St. Louis, Missouri",1853,1907,1928,13995,Big 8 Conference
+Cincinnati,Bearcats,Cincinnati,1819.0,2005,,41357.0,Big East Conference
+Connecticut,Huskies,"Storrs, Connecticut",1881.0,1979,,30034.0,Big East Conference
+Louisville,Cardinals,"Louisville, Kentucky",1798.0,2005,,23262.0,Big East Conference
+Pittsburgh,Panthers,"Pittsburgh, Pennsylvania",1787.0,1982,,28823.0,Big East Conference
+Rutgers,Scarlet Knights,"New Brunswick, New Jersey",1766.0,1995,,38912.0,Big East Conference
+South Florida,Bulls,"Tampa, Florida",1956.0,2005,,47122.0,Big East Conference
+Syracuse,Orange,"Syracuse, New York",1870.0,1979,,20407.0,Big East Conference
+West Virginia  **,Mountaineers,"Morgantown, West Virginia ",1867.0,1995,,29660.0,Big East Conference
+Boston College,Eagles,"Chestnut Hill, Massachusetts",,1979,2005.0,,Big East Conference
+Miami (FL),Hurricanes,"Coral Gables, Florida",,1991,2004.0,,Big East Conference
+Virginia Tech *,Hokies,"Blacksburg, Virginia",,2000,2004.0,,Big East Conference
+Arizona,Wildcats,"Tucson, Arizona",1885,1931,1962,43625,Border Conference
+Arizona State,Sun Devils,"Tempe, Arizona",1885,1931,1962,71946,Border Conference
+Hardin–Simmons,Cowboys &Cowgirls,"Abilene, Texas",1891,1941,1962,2333,Border Conference
+New Mexico State,Aggies,"Las Cruces, New Mexico",1888,1931,1962,21694,Border Conference
+Texas at El Paso,Miners,"El Paso, Texas",1914,1935,1962,25151,Border Conference
+West Texas A&M,Buffaloes,"Canyon, Texas",1910,1941,1962,10169,Border Conference
+Northern Arizona,Lumberjacks,"Flagstaff, Arizona",1899,1931,1953,22791,Border Conference
+New Mexico,Lobos,"Albuquerque, New Mexico",1889,1931,1951,25441,Border Conference
+Texas Tech,Red Raiders,"Lubbock, Texas",1923,1932,1957,40666,Border Conference
+Florida International,Panthers,"Miami, Florida[a]",1965,2013,,58064,Conference USA
+Jacksonville State,Gamecocks,"Jacksonville, Alabama",1883,2023,,9238,Conference USA
+Liberty,Flames & Lady Flames,"Lynchburg, Virginia",1971,2023,,95148,Conference USA
+Louisiana Tech,Bulldogs & Lady Techsters,"Ruston, Louisiana",1894,2013,,12467,Conference USA
+Middle Tennessee,Blue Raiders,"Murfreesboro, Tennessee",1911,2013,,21913,Conference USA
+New Mexico State,Aggies,"Las Cruces, New Mexico",1888,2023,,21694,Conference USA
+Sam Houston State,Bearkats,"Huntsville, Texas",1879,2023,,21679,Conference USA
+Texas at El Paso,Miners,"El Paso, Texas",1914,2005,,25151,Conference USA
+Western Kentucky,Hilltoppers & Lady Toppers,"Bowling Green, Kentucky",1906,2014,,19456,Conference USA
+Arkansas State,Red Wolves,"Jonesboro, Arkansas",1909,2023,,14109,Conference USA
+Dallas Baptist,Patriots,"Dallas, Texas",1898,2022,,4487,Conference USA
+Florida Atlantic,Owls,"Boca Raton, Florida",1961,2023,,30808,Conference USA
+Missouri State,Beach Bears,"Springfield, Missouri",1905,2023,,25051,Conference USA
+Stephen F. Austin State  (Stephen F. Austin),Ladyjacks,"Nacogdoches, Texas",1923,2023,,11946,Conference USA
+Tarleton State  (Tarleton),Texans,"Stephenville, Texas",1899,2023,,11350,Conference USA
+Texas Christian  (TCU),Horned Frogs,"Fort Worth, Texas",1873,2023,,12273,Conference USA
+Tulane,Green Wave,"New Orleans, Louisiana",1834,2022,,11722,Conference USA
+Tulane,Green Wave,"New Orleans, Louisiana",1834,2023,,11722,Conference USA
+Alabama at Birmingham (UAB),Blazers,"Birmingham, Alabama",1969,2023,,22563,Conference USA
+Valparaiso,Beacons,"Valparaiso, Indiana",1859,2023,,2900,Conference USA
+Vanderbilt,Commodores,"Nashville, Tennessee",1873,2023,,13798,Conference USA
+Youngstown State,Penguins,"Youngstown, Ohio",1908,2023,,15058,Conference USA
+Alabama at Birmingham,Blazers,"Birmingham, Alabama",1969,1995,2023.0,0,Conference USA
+Central Florida,Knights,"Orlando, Florida[c]",1963,2005,2013.0,0,Conference USA
+Cincinnati,Bearcats,"Cincinnati, Ohio",1819,1995,2005.0,0,Conference USA
+DePaul,Blue Demons,"Chicago, Illinois",1898,1995,2005.0,0,Conference USA
+East Carolina,Pirates,"Greenville, North Carolina",1907,2001,2014.0,0,Conference USA
+Florida Atlantic,Owls,"Boca Raton, Florida",1961,2013,2023.0,0,Conference USA
+Houston,Cougars,"Houston, Texas",1927,1996,2013.0,0,Conference USA
+Louisville,Cardinals,"Louisville, Kentucky",1798,1995,2005.0,0,Conference USA
+Marquette,Golden Eagles,"Milwaukee, Wisconsin",1881,1995,2005.0,0,Conference USA
+Marshall,Thundering Herd,"Huntington, West Virginia",1837,2005,2022.0,0,Conference USA
+Memphis,Tigers,"Memphis, Tennessee",1912,1995,2013.0,0,Conference USA
+Charlotte,49ers,"Charlotte, North Carolina",1946,1995,2005.0,0,Conference USA
+Charlotte,49ers,"Charlotte, North Carolina",1946,2013,2023.0,0,Conference USA
+North Texas,Mean Green,"Denton, Texas",1890,2013,2023.0,0,Conference USA
+Old Dominion,Monarchs,"Norfolk, Virginia",1930,2013,2022.0,0,Conference USA
+Rice,Owls,"Houston, Texas",1912,2005,2023.0,0,Conference USA
+Saint Louis,Billikens,"St. Louis, Missouri",1818,1995,2005.0,0,Conference USA
+South Florida,Bulls,"Tampa, Florida",1956,1995,2005.0,0,Conference USA
+Southern Methodist,Mustangs,"Dallas, Texas[g]",1911,2005,2013.0,0,Conference USA
+Southern Miss,Golden Eagles,"Hattiesburg, Mississippi",1910,1995,2022.0,0,Conference USA
+Texas Christian,Horned Frogs,"Fort Worth, Texas",1873,2001,2005.0,0,Conference USA
+UTSA,Roadrunners,"San Antonio, Texas",1969,2013,2023.0,0,Conference USA
+Tulane,Green Wave,"New Orleans, Louisiana",1834,1995,2014.0,0,Conference USA
+Tulsa,Golden Hurricane,"Tulsa, Oklahoma",1894,2005,2014.0,0,Conference USA
+Brown,Bears,"Providence, Rhode Island",1642,1954,1981,7349,Ivy League
+Columbia,Lions,"New York, New York",1702,1954,1981,"8,148[b]",Ivy League
+Cornell,Big Red,"Ithaca, New York",1747,1954,1981,15503,Ivy League
+Dartmouth,Big Green,"Hanover, New Hampshire",1754,1954,1981,4556,Ivy League
+Harvard,Crimson,"Cambridge, Massachusetts[c]",1755,1954,1981,7153,Ivy League
+Pennsylvania,Quakers,"Philadelphia, Pennsylvania",1765,1954,1981,9962,Ivy League
+Princeton,Tigers,"Princeton, New Jersey",1768,1954,1981,5321,Ivy League
+Yale,Bulldogs,"New Haven, Connecticut",1868,1954,1981,6536,Ivy League
+Akron,Zips,"Akron, Ohio",1870,1992,,16094.0,Mid-American Conference
+Bowling Green,Falcons,"Bowling Green, Ohio",1910,1952,,18142.0,Mid-American Conference
+Buffalo,Bulls,"Buffalo, New York",1846,1998,,32347.0,Mid-American Conference
+Kent State,Golden Flashes,"Kent, Ohio",1910,1951,,26822.0,Mid-American Conference
+Miami (OH),RedHawks,"Oxford, Ohio",1809,1947,,18880.0,Mid-American Conference
+Ohio,Bobcats,"Athens, Ohio",1804,1946,,25714.0,Mid-American Conference
+Ball State,Cardinals,"Muncie, Indiana",1918,1973,,21597.0,Mid-American Conference
+Central Michigan,Chippewas,"Mount Pleasant, Michigan",1892,1971,,17311.0,Mid-American Conference
+Eastern Michigan,Eagles,"Ypsilanti, Michigan",1849,1971,,16294.0,Mid-American Conference
+Toledo,Rockets,"Toledo, Ohio",1872,1950,,18319.0,Mid-American Conference
+Western Michigan,Broncos,"Kalamazoo, Michigan",1903,1947,,19887.0,Mid-American Conference
+Butler,Bulldogs,"Indianapolis, IN",1855,1946,1950.0,,Mid-American Conference
+Cincinnati,Bearcats,"Cincinnati, OH",1819,1946,1953.0,,Mid-American Conference
+Marshall,Thundering Herd,"Huntington, WV",1837,1954,1969.0,,Mid-American Conference
+Marshall,Thundering Herd,"Huntington, WV",1837,1997,2005.0,,Mid-American Conference
+Wayne State,Tartars,"Detroit, MI",1868,1946,1947.0,,Mid-American Conference
+Western Reserve,Red Cats,"Cleveland, OH",1826,1946,1955.0,,Mid-American Conference
+Northern Illinois,Huskies,"DeKalb, IL",1895,1997,,19600.0,Mid-American Conference
+Northern Illinois,Huskies,"DeKalb, IL",1895,1975,1986.0,19600.0,Mid-American Conference
+Butler,Bulldogs,"Indianapolis, Indiana",1855,1932,1934,4667,Missouri Valley Conference
+Creighton,Bluejays,"Omaha, Nebraska",1878,1928,1948,8000,Missouri Valley Conference
+Creighton,Bluejays,"Omaha, Nebraska",1878,1977,2013,8000,Missouri Valley Conference
+Grinnell,Pioneers,"Grinnell, Iowa",1846,1918,1939,1688,Missouri Valley Conference
+Iowa State,Cyclones,"Ames, Iowa",1858,1907,1928,29887,Missouri Valley Conference
+Kansas State,Wildcats,"Manhattan, Kansas",1863,1913,1928,23863,Missouri Valley Conference
+Loyola  Chicago,Ramblers,"Chicago, Illinois",1870,2013,2022,"16,437",Missouri Valley Conference
+Memphis State,Tigers,"Memphis, Tennessee",1912,1968,1973,23031,Missouri Valley Conference
+New Mexico State,Aggies,"Las Cruces, New Mexico",1888,1970,1983,18497,Missouri Valley Conference
+North Texas State,Mean Green,"Denton, Texas",1890,1957,1975,35694,Missouri Valley Conference
+Oklahoma A&M,Aggies/Cowboys[j],"Stillwater, Oklahoma",1890,1925,1956,21419,Missouri Valley Conference
+Saint Louis,Billikens,"St. Louis, Missouri",1818,1937,1974,13785,Missouri Valley Conference
+Cincinnati,Bearcats,"Cincinnati, Ohio",1819,1957,1970,42421,Missouri Valley Conference
+Detroit,Titans,"Detroit, Michigan",1877,1949,1956,5450,Missouri Valley Conference
+Houston,Cougars,"Houston, Texas",1927,1951,1959,39820,Missouri Valley Conference
+Iowa,Hawkeyes,"Iowa City, Iowa",1847,1907,1908,30328,Missouri Valley Conference
+Kansas,Jayhawks,"Lawrence, Kansas",1865,1907,1928,29462,Missouri Valley Conference
+Louisville,Cardinals,"Louisville, Kentucky",1798,1963,1975,19743,Missouri Valley Conference
+Missouri,Tigers,"Columbia, Missouri",1839,1907,1928,33805,Missouri Valley Conference
+Nebraska,Cornhuskers,"Lincoln, Nebraska",1869,1907,1919,25000,Missouri Valley Conference
+Nebraska,Cornhuskers,"Lincoln, Nebraska",1869,1921,1928,25000,Missouri Valley Conference
+Oklahoma,Sooners,"Norman, Oklahoma",1890,1919,1928,30303,Missouri Valley Conference
+Tulsa,Golden Hurricane,"Tulsa, Oklahoma",1894,1935,1996,4165,Missouri Valley Conference
+Washburn,Ichabods,"Topeka, Kansas",1865,1935,1942,7303,Missouri Valley Conference
+Washington  in St. Louis,Bears,"St. Louis, Missouri",1853,1907,1942,14070,Missouri Valley Conference
+West Texas State,Buffaloes,"Canyon, Texas",1910,1972,1986,7843,Missouri Valley Conference
+Wichita State,Shockers,"Wichita, Kansas",1895,1949,2017,14495,Missouri Valley Conference
+United States Air Force Academy,Falcons,"USAF Academy, Colorado[a]",1954,1999,,4181,Mountain West Conference
+Boise State,Broncos,"Boise, Idaho",1932,2011,,26155,Mountain West Conference
+"California State , Fresno",Bulldogs,"Fresno, California",1911,2012,,25047,Mountain West Conference
+Colorado State,Rams,"Fort Collins, Colorado",1870,1999,,27956,Mountain West Conference
+"Nevada, Reno",Wolf Pack,"Reno, Nevada",1874,2012,,21034,Mountain West Conference
+UNLV,Rebels,"Las Vegas, Nevada[b]",1957,1999,,30679,Mountain West Conference
+New Mexico,Lobos,"Albuquerque, New Mexico",1889,1999,,21738,Mountain West Conference
+San Diego State,Aztecs,"San Diego, California",1897,1999,,35732,Mountain West Conference
+San Jose State,Spartans,"San Jose, California",1857,2013,,35751,Mountain West Conference
+Utah State,Aggies,"Logan, Utah",1888,2013,,27943,Mountain West Conference
+Wyoming,Cowboys & Cowgirls,"Laramie, Wyoming",1886,1999,,11100,Mountain West Conference
+BYU,Cougars,"Provo, Utah",1875,1999,2011.0,34390,Mountain West Conference
+Texas Christian,Horned Frogs,"Fort Worth, Texas",1873,2005,2012.0,11938,Mountain West Conference
+Utah,Utes,"Salt Lake City, Utah",1850,1999,2011.0,34900,Mountain West Conference
+Arizona,Wildcats,"Tucson, Arizona",1885,1978,2023,49471,Pac-12 Conference
+Arizona State,Sun Devils,"Tempe, Arizona",1885,1978,2023,79232,Pac-12 Conference
+California,Golden Bears,"Berkeley, California",1868,1959,2023,45307,Pac-12 Conference
+UCLA,Bruins,"Los Angeles, California",1919,1959,2023,45900,Pac-12 Conference
+Colorado,Buffaloes,"Boulder, Colorado",1876,2011,2023,36430,Pac-12 Conference
+Oregon,Ducks,"Eugene, Oregon",1876,1959,2023,23202,Pac-12 Conference
+Oregon State,Beavers,"Corvallis, Oregon",1868,1959,2023,35239,Pac-12 Conference
+Southern California,Trojans,"Los Angeles, California",1880,1959,2023,49500,Pac-12 Conference
+Stanford,Cardinal,"Stanford, California",1891,1959,2023,16937,Pac-12 Conference
+Utah,Utes,"Salt Lake City, Utah",1850,2011,2023,34900,Pac-12 Conference
+Washington,Huskies,"Seattle, Washington",1861,1959,2023,49165,Pac-12 Conference
+Washington State,Cougars,"Pullman, Washington",1890,1959,2023,24139,Pac-12 Conference
+California,Golden Bears,"Berkeley, California",1868,1915,1959,31000,Pacific Coast Conference
+Oregon,Ducks,"Eugene, Oregon",1876,1915,1959,22000,Pacific Coast Conference
+Oregon State,Beavers,"Corvallis, Oregon",1868,1915,1959,31000,Pacific Coast Conference
+Washington,Huskies,"Seattle, Washington",1861,1915,1959,31000,Pacific Coast Conference
+Washington State,Cougars,"Pullman, Washington",1890,1917,1959,31000,Pacific Coast Conference
+Stanford,Cardinal,"Stanford, California",1891,1918,1959,31000,Pacific Coast Conference
+Idaho,Vandals,"Moscow, Idaho",1889,1922,1959,31000,Pacific Coast Conference
+Southern California,Trojans,"Los Angeles, California",1880,1922,1959,31000,Pacific Coast Conference
+Montana,Grizzlies,"Missoula, Montana",1893,1924,1950,31000,Pacific Coast Conference
+UCLA,Bruins,"Los Angeles, California",1919,1928,1959,31000,Pacific Coast Conference
+Appalachian State,Mountaineers,"Boone, North Carolina",1899,2014,0,"20,023",Sun Belt Conference
+Arkansas State,Red Wolves,"Jonesboro, Arkansas",1909,1991,0,"14,109",Sun Belt Conference
+Coastal Carolina,Chanticleers,"Conway, South Carolina",1954,2016,0,"10,894",Sun Belt Conference
+Georgia Southern,Eagles,"Statesboro, Georgia",1906,2014,0,"27,459",Sun Belt Conference
+Georgia State,Panthers,"Atlanta, Georgia",1913,1976,0,"53,619",Sun Belt Conference
+James Madison,Dukes,"Harrisonburg, Virginia",1908,2022,0,21496,Sun Belt Conference
+Louisiana at Lafayette,Ragin' Cajuns,"Lafayette, Louisiana",1898,1991,0,"19,188",Sun Belt Conference
+Louisiana-Monroe,Warhawks,"Monroe, Louisiana",1931,2006,0,"9,060",Sun Belt Conference
+Marshall,Thundering Herd,"Huntington, West Virginia",1837,2022,0,"11,962",Sun Belt Conference
+Old Dominion,Monarchs,"Norfolk, Virginia",1930,1982,0,"24,286",Sun Belt Conference
+South Alabama,Jaguars,"Mobile, Alabama",1963,1976,0,"14,834",Sun Belt Conference
+Southern Miss,Golden Eagles,"Hattiesburg, Mississippi",1910,2022,0,"14,606",Sun Belt Conference
+Texas State,Bobcats,"San Marcos, Texas",1899,2013,0,"38,231",Sun Belt Conference
+Troy,Trojans,"Troy, Alabama",1887,2005,0,"17,494",Sun Belt Conference
+Charleston,Cougars,"Charleston, South Carolina",1770,2022,0,10468,Sun Belt Conference
+Kentucky,Wildcats,"Lexington, Kentucky",1865,2022,0,26054,Sun Belt Conference
+Mercer,Bears,"Macon, Georgia",1833,2022,0,8740,Sun Belt Conference
+South Carolina,Gamecocks,"Columbia, South Carolina",1801,2022,0,35364,Sun Belt Conference
+Stephen F. Austin State,Ladyjacks,"Nacogdoches, Texas",1923,2022,0,11946,Sun Belt Conference
+UCF,Knights,"Orlando, Florida",1963,2023,0,70406,Sun Belt Conference
+North Carolina Wilmington(UNCW),Seahawks,"Wilmington, North Carolina",1947,2022,0,14765,Sun Belt Conference
+West Virginia,Mountaineers,"Morgantown, West Virginia",1867,2022,0,26269,Sun Belt Conference
+Alabama at Birmingham,Blazers,"Birmingham, Alabama",1969,1979,1991,,Sun Belt Conference
+Central Florida,Knights,"Orlando, Florida",1963,1991,1992,,Sun Belt Conference
+Denver,Pioneers,"Denver, Colorado",1864,1999,2012,,Sun Belt Conference
+Florida Atlantic,Owls,"Boca Raton, Florida",1961,2006,2013,,Sun Belt Conference
+Florida International,Panthers,"Miami, Florida",1965,1998,2013,,Sun Belt Conference
+Jacksonville State,Dolphins,"Jacksonville, Florida",1934,1976,1998,,Sun Belt Conference
+Lamar,Cardinals,"Beaumont, Texas",1923,1991,1998,,Sun Belt Conference
+Arkansas at Little Rock,Trojans,"Little Rock, Arkansas",1927,1991,2022,,Sun Belt Conference
+Louisiana Tech,Bulldogs & Lady Techsters,"Ruston, Louisiana",1894,1991,2001,,Sun Belt Conference
+Middle Tennessee,Blue Raiders,"Murfreesboro, Tennessee",1911,2000,2013,,Sun Belt Conference
+New Mexico State,Aggies,"Las Cruces, New Mexico",1888,2000,2005,,Sun Belt Conference
+New Orleans,Privateers,"New Orleans, Louisiana",1958,1976,1980,,Sun Belt Conference
+New Orleans,Privateers,"New Orleans, Louisiana",1958,1991,2010,,Sun Belt Conference
+Charlotte,49ers,"Charlotte, North Carolina",1946,1976,1991,,Sun Belt Conference
+North Texas,Mean Green,"Denton, Texas",1890,2000,2013,,Sun Belt Conference
+South Florida,Bulls,"Tampa, Florida",1956,1976,1991,,Sun Belt Conference
+Texas at Arlington,Mavericks,"Arlington, Texas",1895,2013,2022,,Sun Belt Conference
+Texas–Pan American,Broncs,"Edinburg, Texas",1927,1991,1998,,Sun Belt Conference
+Virginia Commonwealth,Rams,"Richmond, Virginia",1838,1979,1991,,Sun Belt Conference
+Western Kentucky,Hilltoppers & Lady Toppers,"Bowling Green, Kentucky",1906,1982,2014,,Sun Belt Conference
+Florida,Gators,"Gainesville, Florida",1853,1932,,60613,SEC
+Georgia,Bulldogs,"Athens, Georgia",1785,1932,,40118,SEC
+Kentucky,Wildcats,"Lexington, Kentucky",1865,1932,,31536,SEC
+Missouri,Tigers,"Columbia, Missouri",1839,2012,,29866,SEC
+South Carolina,Gamecocks,"Columbia, South Carolina",1801,1991,,35388,SEC
+Tennessee,Volunteers,"Knoxville, Tennessee",1794,1932,,31701,SEC
+Vanderbilt,Commodores,"Nashville, Tennessee",1873,1932,,13796,SEC
+Alabama,Crimson Tide,"Tuscaloosa, Alabama",1831,1932,,38320,SEC
+Arkansas,Razorbacks,"Fayetteville, Arkansas",1871,1991,,32140,SEC
+Auburn,Tigers,"Auburn, Alabama",1856,1932,,31526,SEC
+LSU,Tigers,"Baton Rouge, Louisiana",1860,1932,,35914,SEC
+Ole Miss,Rebels,"University, Mississippi[a]",1848,1932,,19869,SEC
+Mississippi State,Bulldogs,"Mississippi State, Mississippi[b]",1878,1932,,22649,SEC
+Texas A&M,Aggies,"College Station, Texas",1876,2012,,73284,SEC
+Oklahoma,Sooners,"Norman, Oklahoma",1890,2024,,0,SEC
+Texas at Austin,Longhorns,"Austin, Texas",1883,2024,,0,SEC
+BYU,Cougars,"Provo, Utah",1875,1937,1961,34100,Skyline Conference
+Colorado State,Rams,"Fort Collins, Colorado",1870,1937,1961,34166,Skyline Conference
+Denver,Pioneers,"Denver, Colorado",1864,1937,1961,11952,Skyline Conference
+Montana,Grizzlies,"Missoula, Montana",1893,1951,1961,10104,Skyline Conference
+New Mexico,Lobos,"Albuquerque, New Mexico",1889,1951,1961,25441,Skyline Conference
+Utah,Utes,"Salt Lake City, Utah",1850,1937,1961,33000,Skyline Conference
+Utah State,Aggies,"Logan, Utah",1888,1937,1961,27691,Skyline Conference
+Wyoming,Cowboys,"Laramie, Wyoming",1886,1937,1961,12450,Skyline Conference
+Colorado,Buffaloes,"Boulder, Colorado",1876,1937,1946,33246,Skyline Conference
+Oklahoma,,,,1915,1919,,Southwest Conference
+Oklahoma A&M,,,,1915,1925,,Southwest Conference
+Phillips,,,,1920,1921,,Southwest Conference
+Southwestern,,,,1915,1916,,Southwest Conference
+Arkansas,,,,1915,1992,,Southwest Conference
+Texas A&M,,,,1915,1996,,Southwest Conference
+Texas,,,,1915,1996,,Southwest Conference
+Baylor,,,,1915,1996,,Southwest Conference
+Texas Tech,,,,1956,1996,,Southwest Conference
+Houston,,,,1976,1996,,Southwest Conference
+TCU,,,,1923,1996,,Southwest Conference
+Rice,,,,1915,1996,,Southwest Conference
+SMU,,,,1918,1996,,Southwest Conference
+Air Force,Falcons,,,1980.0,1998.0,,Western Athletic Conference
+Arizona,Wildcats,,,1962.0,1977.0,,Western Athletic Conference
+Arizona State,Sun Devils,,,1962.0,1977.0,,Western Athletic Conference
+Boise State,Broncos,,,2001.0,2010.0,,Western Athletic Conference
+BYU,Cougars,,,1962.0,1998.0,,Western Athletic Conference
+Fresno State,Bulldogs,,,1992.0,2011.0,,Western Athletic Conference
+Colorado State,Rams,,,1967.0,1998.0,,Western Athletic Conference
+Hawaii,Warriors,,,1979.0,2011.0,,Western Athletic Conference
+Idaho,Vandals,,,2005.0,2012.0,,Western Athletic Conference
+Lamar,Cardinals,,,2021.0,2021.0,,Western Athletic Conference
+Louisiana,Tech Bulldogs,,,2001.0,2012.0,,Western Athletic Conference
+UNLV,Rebels,,,1996.0,1998.0,,Western Athletic Conference
+Nevada,Wolf Pack,,,2000.0,2011.0,,Western Athletic Conference
+New Mexico,Lobos,,,1962.0,1998.0,,Western Athletic Conference
+New Mexico State,Aggies,,,2005.0,2012.0,,Western Athletic Conference
+Rice,Owls,,,1996.0,2004.0,,Western Athletic Conference
+San Diego State,Aztecs,,,1978.0,1998.0,,Western Athletic Conference
+San Jose State,Spartans,,,1996.0,2012.0,,Western Athletic Conference
+SMU,Mustangs,,,1996.0,2004.0,,Western Athletic Conference
+TCU,Horned Frogs,,,1996.0,2000.0,,Western Athletic Conference
+UTEP,Miners,,,1967.0,2004.0,,Western Athletic Conference
+UTSA,Roadrunners,,,2012.0,2012.0,,Western Athletic Conference
+Texas State,Bobcats,,,2012.0,2012.0,,Western Athletic Conference
+Tulsa,Golden Hurricane,,,1996.0,2004.0,,Western Athletic Conference
+Utah,Utes,,,1962.0,1998.0,,Western Athletic Conference
+Utah State,Aggies,,,2005.0,2012.0,,Western Athletic Conference
+Wyoming,Cowboys,,,1962.0,1998.0,,Western Athletic Conference
+Sam Houston State,Bearkats,,,2021.0,2022.0,,Western Athletic Conference
