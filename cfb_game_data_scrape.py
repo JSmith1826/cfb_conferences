@@ -1,4 +1,7 @@
 ### Sports Referefence Historical Football Scores Scaper
+## Scrapes all available college football scores from Sports Reference.com 
+## by looping through the full season schedule for each year in the range specified.
+## The script also does some light data transformation before saving the data to a CSV file.
 
 # Dependencies
 from bs4 import BeautifulSoup
@@ -146,4 +149,6 @@ transformed_data = transformed_data[ordered_cols]
 transformed_data.head(20)
 
 
-### ['Conference Id', 'ConferenceID', 'conference id', ']
+# Save to A CSV File
+transformed_data.to_csv("../TEMP/cfb_scores_all_years.csv", index=False) # Save to TEMP Directory for inspection
+# transformed_data.to_csv("../data/cfb_scores_all_years.csv", index=False) # Save to data Directory - production
