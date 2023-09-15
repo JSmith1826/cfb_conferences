@@ -1145,5 +1145,5 @@ master_df.loc[master_df['Institution'] == 'Brigham Young', 'Institution'] = 'BYU
 master_df = master_df.dropna(subset=['Institution'])
 
 # Save the master dataframe to a csv
-master_df.to_csv('..\TEMPcfb_conference_members.csv', index=False) # Local file location
+master_df.to_csv('..\TEMP\cfb_conference_members.csv', index=False) # Local file location
 # master_df.to_csv('data\cfb_conference_members.csv', index=False) # Production file Location
