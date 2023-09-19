@@ -59,28 +59,28 @@ UCLA,Bruins,"Los Angeles, California",1919,2024,,45900,Big Ten Conference
 Oregon,Ducks,"Eugene, Oregon",1876,2024,,23202,Big Ten Conference
 Southern California,Trojans,"Los Angeles, California",1880,2024,,49500,Big Ten Conference
 Washington,Huskies,"Seattle, Washington",1861,2024,,49522,Big Ten Conference
-Baylor,Bears,"Waco, Texas",1845,1996.0,,"20,626",Big 12
-BYU,Cougars,"Provo, Utah",1875,2023.0,,"34,390",Big 12
-Central Florida,Knights,"Orlando, Florida[a]",1963,2023.0,,"71,948",Big 12
-Cincinnati,Bearcats,"Cincinnati, Ohio",1819,2023.0,,"47,914",Big 12
-Houston,Cougars,"Houston, Texas",1927,2023.0,,"47,090",Big 12
-Iowa State,Cyclones,"Ames, Iowa",1858,1996.0,,"30,708",Big 12
-Kansas,Jayhawks,"Lawrence, Kansas",1865,1996.0,,"27,685",Big 12
-Kansas State,Wildcats,"Manhattan, Kansas",1863,1996.0,,"19,722",Big 12
-Oklahoma,Sooners,"Norman, Oklahoma",1890,1996.0,,"28,052",Big 12
-Oklahoma State,Cowboys / Cowgirls,"Stillwater, Oklahoma",1890,1996.0,,"24,660",Big 12
-Texas at Austin,Longhorns,"Austin, Texas",1883,1996.0,,"51,892",Big 12
-Texas Christian,Horned Frogs,"Fort Worth, Texas",1873,2012.0,,"11,938",Big 12
-Texas Tech,Red Raiders,"Lubbock, Texas",1923,1996.0,,"40,666",Big 12
-West Virginia,Mountaineers,"Morgantown, West Virginia",1867,2012.0,,"25,474",Big 12
-Arizona,Wildcats,"Tucson, Arizona",1885,,,51134,Big 12
-Arizona State,Sun Devils,"Tempe, Arizona[a]",1885,,,"57,588",Big 12
-Colorado Boulder,Buffaloes,"Boulder, Colorado",1876,,,36170,Big 12
-Utah,Utes,"Salt Lake City, Utah",1850,,,34900,Big 12
-Colorado Boulder,Buffaloes,"Boulder, Colorado",1876,1996.0,2011.0,,Big 12
-Missouri,Tigers,"Columbia, Missouri",1839,1996.0,2012.0,,Big 12
-Nebraska–Lincoln,Cornhuskers,"Lincoln, Nebraska",1869,1996.0,2011.0,,Big 12
-Texas A&M,Aggies,"College Station, Texas",1876,1996.0,2012.0,,Big 12
+Baylor,Bears,,1845,1996,,"20,626",Big 12
+BYU,Cougars,,1875,2023,,"34,390",Big 12
+Central Florida,Knights,,1963,2023,,"71,948",Big 12
+Cincinnati,Bearcats,,1819,2023,,"50,921",Big 12
+Houston,Cougars,,1927,2023,,"47,090",Big 12
+Iowa State,Cyclones,,1858,1996,,"30,708",Big 12
+Kansas,Jayhawks,,1865,1996,,"27,685",Big 12
+Kansas State,Wildcats,,1863,1996,,"19,722",Big 12
+Oklahoma,Sooners,,1890,1996,,"28,052",Big 12
+Oklahoma State,Cowboys / Cowgirls,,1890,1996,,"24,660",Big 12
+Texas at Austin,Longhorns,,1883,1996,,"51,892",Big 12
+Texas Christian,Horned Frogs,,1873,2012,,"12,273",Big 12
+Texas Tech,Red Raiders,,1923,1996,,"40,666",Big 12
+West Virginia,Mountaineers,,1867,2012,,"25,474",Big 12
+Arizona,Wildcats,,1885,2024,,51134,Big 12
+Arizona State,Sun Devils,,1885,2024,,"57,588",Big 12
+Colorado Boulder,Buffaloes,,1876,2024,,36170,Big 12
+Utah,Utes,,1850,2024,,34900,Big 12
+Colorado Boulder,Buffaloes,,1876,1996,2011.0,,Big 12
+Missouri,Tigers,,1839,1996,2012.0,,Big 12
+Nebraska–Lincoln,Cornhuskers,,1869,1996,2011.0,,Big 12
+Texas A&M,Aggies,,1876,1996,2012.0,,Big 12
 Colorado,Buffaloes,"Boulder, Colorado",1876,1947,1996,30128,Big 8 Conference
 Iowa State,Cyclones,"Ames, Iowa",1858,1908,1996,28682,Big 8 Conference
 Kansas,Jayhawks,"Lawrence, Kansas",1865,1907,1996,30004,Big 8 Conference
@@ -264,7 +264,7 @@ Southern Miss,Golden Eagles,"Hattiesburg, Mississippi",1910,2022,0,"14,606",Sun 
 Texas State,Bobcats,"San Marcos, Texas",1899,2013,0,"38,231",Sun Belt Conference
 Troy,Trojans,"Troy, Alabama",1887,2005,0,"17,494",Sun Belt Conference
 Charleston,Cougars,"Charleston, South Carolina",1770,2022,0,10468,Sun Belt Conference
-Kentucky,Wildcats,"Lexington, Kentucky",1865,2022,0,26054,Sun Belt Conference
+Kentucky,Wildcats,"Lexington, Kentucky",1865,2022,0,32710,Sun Belt Conference
 Mercer,Bears,"Macon, Georgia",1833,2022,0,8740,Sun Belt Conference
 South Carolina,Gamecocks,"Columbia, South Carolina",1801,2022,0,35364,Sun Belt Conference
 Stephen F. Austin State,Ladyjacks,"Nacogdoches, Texas",1923,2022,0,11946,Sun Belt Conference
@@ -291,22 +291,22 @@ Texas at Arlington,Mavericks,"Arlington, Texas",1895,2013,2022,,Sun Belt Confere
 Texas–Pan American,Broncs,"Edinburg, Texas",1927,1991,1998,,Sun Belt Conference
 Virginia Commonwealth,Rams,"Richmond, Virginia",1838,1979,1991,,Sun Belt Conference
 Western Kentucky,Hilltoppers & Lady Toppers,"Bowling Green, Kentucky",1906,1982,2014,,Sun Belt Conference
-Florida,Gators,"Gainesville, Florida",1853,1932,,60613,SEC
-Georgia,Bulldogs,"Athens, Georgia",1785,1932,,40118,SEC
-Kentucky,Wildcats,"Lexington, Kentucky",1865,1932,,31536,SEC
-Missouri,Tigers,"Columbia, Missouri",1839,2012,,29866,SEC
-South Carolina,Gamecocks,"Columbia, South Carolina",1801,1991,,35388,SEC
-Tennessee,Volunteers,"Knoxville, Tennessee",1794,1932,,31701,SEC
-Vanderbilt,Commodores,"Nashville, Tennessee",1873,1932,,13796,SEC
-Alabama,Crimson Tide,"Tuscaloosa, Alabama",1831,1932,,38320,SEC
-Arkansas,Razorbacks,"Fayetteville, Arkansas",1871,1991,,32140,SEC
-Auburn,Tigers,"Auburn, Alabama",1856,1932,,31526,SEC
-LSU,Tigers,"Baton Rouge, Louisiana",1860,1932,,35914,SEC
-Ole Miss,Rebels,"University, Mississippi[a]",1848,1932,,19869,SEC
-Mississippi State,Bulldogs,"Mississippi State, Mississippi[b]",1878,1932,,22649,SEC
-Texas A&M,Aggies,"College Station, Texas",1876,2012,,73284,SEC
-Oklahoma,Sooners,"Norman, Oklahoma",1890,2024,,0,SEC
-Texas at Austin,Longhorns,"Austin, Texas",1883,2024,,0,SEC
+Florida,Gators,"Gainesville, Florida",1853,1932,,,SEC
+Georgia,Bulldogs,"Athens, Georgia",1785,1932,,,SEC
+Kentucky,Wildcats,"Lexington, Kentucky",1865,1932,,,SEC
+Missouri,Tigers,"Columbia, Missouri",1839,2012,,,SEC
+South Carolina,Gamecocks,"Columbia, South Carolina",1801,1991,,,SEC
+Tennessee,Volunteers,"Knoxville, Tennessee",1794,1932,,,SEC
+Vanderbilt,Commodores,"Nashville, Tennessee",1873,1932,,,SEC
+Alabama,Crimson Tide,"Tuscaloosa, Alabama",1831,1932,,,SEC
+Arkansas,Razorbacks,"Fayetteville, Arkansas",1871,1991,,,SEC
+Auburn,Tigers,"Auburn, Alabama",1856,1932,,,SEC
+LSU,Tigers,"Baton Rouge, Louisiana",1860,1932,,,SEC
+Ole Miss,Rebels,"University, Mississippi[a]",1848,1932,,,SEC
+Mississippi State,Bulldogs,"Mississippi State, Mississippi[b]",1878,1932,,,SEC
+Texas A&M,Aggies,"College Station, Texas",1876,2012,,,SEC
+Oklahoma,Sooners,"Norman, Oklahoma",1890,2024,,28308.0,SEC
+Texas at Austin,Longhorns,"Austin, Texas",1883,2024,,52384.0,SEC
 BYU,Cougars,"Provo, Utah",1875,1937,1961,34100,Skyline Conference
 Colorado State,Rams,"Fort Collins, Colorado",1870,1937,1961,34166,Skyline Conference
 Denver,Pioneers,"Denver, Colorado",1864,1937,1961,11952,Skyline Conference
