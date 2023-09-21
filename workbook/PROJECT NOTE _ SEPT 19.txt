@@ -1,0 +1,18 @@
+## Notes from data exploration
+
+# Problems to check in the conference data based on observations 
+
+- Lousiana State (LSU) Is not being assigned to the SEC corrrectly - change name in conference lookup
+
+2018 - 2022 Sun Belt
+1996 - 1998 (At Least) WAC
+
+When filtering bowl games these 5 conference championship games are called non conference because the teams are assigned incorrect conferences. Need to correct the data
+
+Appalachian State	30		Louisiana	19		2018					Sun Belt Conference	Western Athletic Conference	Non-Conference		Sun Belt Championship (Boone, NC)
+Appalachian State	45		Louisiana	38		2019			20		Sun Belt Conference	Western Athletic Conference	Non-Conference		Sun Belt Championship (Boone, NC)
+Louisiana	24		Appalachian State	16		2021	3:30 PM		20		Western Athletic Conference	Sun Belt Conference	Non-Conference		Sun Belt Championship (Lafayette, LA)
+Brigham Young	28	N	Wyoming	25		1996			6	20	Independent/Unknown	Independent/Unknown	Non-Conference		WAC Championship (Whitney, NV)
+Colorado State	41	N	New Mexico	13		1997			20		Independent/Unknown	Independent/Unknown	Non-Conference		WAC Championship (Whitney, NV)
+Air Force	20	N	Brigham Young	13		1998			17		Independent/Unknown	Independent/Unknown	Non-Conference		WAC Championship (Whitney, NV)
+
